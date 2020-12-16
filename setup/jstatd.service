@@ -1,0 +1,12 @@
+[Unit]
+Description=Monitors Java Virtual Machines (JVMs) and enables remote monitoring tools to attach to JVMs.
+After=network.target syslog.target
+Documentation=https://docs.oracle.com/javase/8/
+
+[Service]
+Type=simple
+ExecStart=/opt/java/bin/jstatd -J-Djava.security.policy=/opt/java/setup/jstatd.all.policy -p 1099
+#ExecStart=/opt/java/bin/jstatd -J-Djava.security.policy=/opt/java/setup/jstatd.all.policy -J-Djava.rmi.server.hostname=192.168.5.220 -p 1099
+
+[Install]
+WantedBy=multi-user.target
