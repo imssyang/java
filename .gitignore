@@ -9,3 +9,4 @@ man
 src.zip
 sample/**/*/doc
 sample/**/*/out
+sample/**/*/*.class
