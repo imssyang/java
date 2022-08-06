@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d618492-94fb-48d4-9c49-c26c2aa44263" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/annotations/Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/annotations/Annotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/EnumTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/EnumTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/LambdaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/NestedClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/NestedClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/control_flow/ControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/control_flow/ControlFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/generics/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/operators/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/packages/Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/packages/Packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/SimpleObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/SimpleObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/collections/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/collections/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/basicio/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/basicio/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/basicio/IOStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/basicio/IOStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/GuardedBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/GuardedBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/ImmutableObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/ImmutableObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/Liveness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/Liveness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/SimpleThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/SimpleThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/Synchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/Synchronization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/AtomicVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/AtomicVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ConcurrentCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ConcurrentCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ExecutorsAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ForkJoinFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ForkJoinFramework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/exceptions/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/exceptions/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/platform_environment/ConfigurationUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/platform_environment/ConfigurationUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/platform_environment/SystemUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/platform_environment/SystemUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/regular_expressions/MatcherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/regular_expressions/MatcherExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="220" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/imssyang/JavaTutorials" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hf9t48eroDH5eTGx7SFihyrInz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javatutorials" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/00-svn/KIMP/FreeSwitchCall" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.TypeConvert" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="basics" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="effective.g6enum_annotation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="O:\30-Project\_sample\JavaTutorials\src\jcip\examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.String2Boolean">
+    <configuration name="CompletableFutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Future.CompletableFutureTest" />
+      <module name="JavaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.Future.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalizeEscapeGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbage_collection.FinalizeEscapeGC" />
+      <module name="JavaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="garbage_collection.weakreference.Test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Regex.MatcherDemo" />
+      <module name="JavaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.Regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String2Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.TypeConvert.String2Boolean" />
+      <module name="JavaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.TypeConvert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringInternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbage_collection.StringInternDemo" />
+      <module name="JavaTutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="garbage_collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FinalizeEscapeGC" />
+      <item itemvalue="Application.MatcherDemo" />
+      <item itemvalue="Application.StringInternDemo" />
+      <item itemvalue="Application.CompletableFutureTest" />
+      <item itemvalue="Application.String2Boolean" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.String2Boolean" />
+        <item itemvalue="Application.MatcherDemo" />
+        <item itemvalue="Application.CompletableFutureTest" />
+        <item itemvalue="Application.StringInternDemo" />
+        <item itemvalue="Application.FinalizeEscapeGC" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d618492-94fb-48d4-9c49-c26c2aa44263" name="Default Changelist" comment="" />
+      <created>1562857158347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562857158347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1345" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608000650571">
+      <screen x="-1920" y="0" width="1843" height="1080" />
+    </state>
+    <state x="-1345" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608000650571" />
+    <state x="1224" y="295" key="#com.intellij.ide.util.MemberChooser" timestamp="1608169415692">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state x="1224" y="295" key="#com.intellij.ide.util.MemberChooser/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1608169415692" />
+    <state width="1800" height="166" key="GridCell.Tab.0.bottom" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.bottom/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.bottom/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.center" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.center/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.center/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.left" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.left/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.left/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.right" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.right/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.right/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="411" key="GridCell.Tab.1.bottom" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.bottom/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.center" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.center/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.left" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.left/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.right" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.right/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state x="548" y="265" key="run.anything.popup" timestamp="1608206605047">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state x="548" y="265" key="run.anything.popup/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1608206605047" />
+    <state x="-1447" y="299" width="672" height="678" key="search.everywhere.popup" timestamp="1608000715491">
+      <screen x="-1920" y="0" width="1843" height="1080" />
+    </state>
+    <state x="-1447" y="299" width="672" height="678" key="search.everywhere.popup/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608000715491" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/annotations/Annotations.java</url>
+          <line>166</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ImmutableObjects.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/example/Regex/MatcherDemo.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/classes/Classes.java</url>
+          <line>193</line>
+          <properties class="tutorial.basics.classes.Classes.Polygon">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ExecutorsAPI.java</url>
+          <line>182</line>
+          <properties class="tutorial.essential.concurrency.high_level.ExecutorsAPI.ExecutorTask" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/platform_environment/ConfigurationUtilities.java</url>
+          <line>97</line>
+          <properties class="tutorial.essential.platform_environment.ConfigurationUtilities" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/variables/SimpleObjects.java</url>
+          <line>374</line>
+          <properties class="tutorial.basics.variables.SimpleObjects" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/learnjava$PrimitiveDataTypesDemo.ic" NAME="PrimitiveDataTypesDemo Coverage Results" MODIFIED="1563201431438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JavaTutorials$ConfigurationUtilities.ic" NAME="ConfigurationUtilities Coverage Results" MODIFIED="1567355298421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>essential.platform_environment.*</FILTER>
+    </SUITE>
+  </component>
+</project>
