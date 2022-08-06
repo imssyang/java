@@ -7,5 +7,6 @@ export JAVA_HOME=/opt/java
 #export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
 export PATH=$JAVA_HOME/bin:$JAVA_HOME/jre/bin:$PATH
 export MANPATH=$JAVA_HOME/man:$MANPATH
+export CLASSPATH=$JAVA_HOME/sample/CJNIJava
 
 

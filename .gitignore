@@ -7,3 +7,5 @@ jre
 lib
 man
 src.zip
+sample/**/*/doc
+sample/**/*/out
