@@ -9,3 +9,8 @@ export JAVA_DISABLE_ENV=yes
 #export MANPATH=$JAVA_HOME/man:$MANPATH
 #export CLASSPATH=$JAVA_HOME/sample/CJNIJava
 
+# JENV
+export JENV_ROOT=/opt/java/jenv
+if [[ -f "${HOMEBREW_PREFIX}/bin/jenv" ]]; then
+  eval "$(jenv init - zsh)"
+fi
