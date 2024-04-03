@@ -1,13 +1,3 @@
-# Arachive files
-archive
-bin
-include
-javafx-src.zip
-jenv
-jre
-lib
-man
-src.zip
 sample/**/*/doc
 sample/**/*/out
 sample/**/*/*.class
