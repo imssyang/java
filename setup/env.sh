@@ -2,7 +2,7 @@
 
 # JENV
 export JENV_ROOT=/opt/java/jenv
-if [[ -f "${HOMEBREW_PREFIX}/bin/jenv" ]]; then
+if [[ -f "${JENV_ROOT:-"$HOMEBREW_PREFIX"}/bin/jenv" ]]; then
   eval "$(jenv init - zsh)"
 fi
 
