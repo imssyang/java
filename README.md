@@ -13,3 +13,10 @@ jenv shell oracle64-17.0.10
 jenv doctor
 ```
 
+# jenv
+
+```bash
+# Ignore untracked content of jenv
+git config -f .gitmodules submodule.jenv.ignore untracked
+```
+
