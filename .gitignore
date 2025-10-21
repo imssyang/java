@@ -1,3 +1,6 @@
 sample/**/*/doc
 sample/**/*/out
 sample/**/*/*.class
+archive/
+jdk/*
+!jdk/README.md
